@@ -14,7 +14,7 @@
     "url"          : "https://github.com/TheThingSystem/node-cubesensors-cloud/issues"
   }
 , "dependencies"   : {
-    "oauth"        : "git://github.com/TheThingSystem/node-oauth.git"
+    "oauth"        : "~0.9.13"
   }
 , "keywords"       : [ "CubeSensors" ]
 , "main"           : "./cubesensors-cloud.js"
